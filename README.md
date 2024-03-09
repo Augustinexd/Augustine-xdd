@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinexd&label=Profile%20views&color=0e75b6&style=flat" alt="augustinexd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shirotsumekus10" target="blank"><img src="https://img.shields.io/twitter/follow/shirotsumekus10?logo=twitter&style=for-the-badge" alt="shirotsumekus10" /></a> </p>
+<img align="right" height="200" src="https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/245fdb862925b9e3297a80d3e850a788.jpg"  />
 
 - 🔭 I’m currently working on **N/A**
 
